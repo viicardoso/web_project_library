@@ -42,10 +42,6 @@
   font-weight: bold;
 }
 
-.nav__link:hover {
-  color: #1f69c9;
-}
-
 .header__content {
   display: flex;
   justify-content: space-between;
@@ -382,10 +378,6 @@
   display: flex;
   column-gap: 10px;
   align-items: center;
-}
-
-.footer__column-link:hover {
-  color: #c1c1c1;
 }
 
 .footer__social-icon {
